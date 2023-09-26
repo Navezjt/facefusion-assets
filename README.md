@@ -17,7 +17,7 @@ Models
 | GFPGANv1.4.pth | TencentARC | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg) |
 | inswapper_128.onnx | insightface | ![license](https://img.shields.io/badge/license-non_commercial-red) |
 | inswapper_128_fp16.onnx | hillobar | ![license](https://img.shields.io/badge/license-non_commercial-red) |
-| RealESRGAN_x4plus.onnx | FaceFusion | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
+| RealESRGAN_x2plus.pth | xinntao | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
 | RealESRGAN_x4plus.pth | xinntao | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
 
 
