@@ -11,9 +11,11 @@ Models
 
 | file | source | license |
 |-|-|-|
+| codeformer.onnx | FaceFusion | ![license](https://img.shields.io/badge/license-non_commercial-red) |
+| codeformer.pth | sczhou | ![license](https://img.shields.io/badge/license-non_commercial-red) |
 | GFPGANv1.3.onnx | FaceFusion | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg) |
-| GFPGANv1.4.onnx | FaceFusion | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg) |
 | GFPGANv1.3.pth | TencentARC | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg) |
+| GFPGANv1.4.onnx | FaceFusion | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg) |
 | GFPGANv1.4.pth | TencentARC | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg) |
 | inswapper_128.onnx | insightface | ![license](https://img.shields.io/badge/license-non_commercial-red) |
 | inswapper_128_fp16.onnx | hillobar | ![license](https://img.shields.io/badge/license-non_commercial-red) |
